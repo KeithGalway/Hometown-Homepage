@@ -71,6 +71,7 @@ body {
     margin: 35px auto 10px;
     display: flex;
     justify-content: space-evenly;
+    gap: 50px
 }
 
 .option {
@@ -84,7 +85,7 @@ body {
 }
 
 .option__img {
-    border-radius: 50%;
+    border-radius: 4rem;
 }
 
 .option__heading,
